@@ -1,16 +1,18 @@
 ### Hi there 👋
+I love creating applications and libraries with a strong attention to usability and UX. When I'm not doing stuff for university (studying and teaching various software development courses), I'm usually working on some games or web projects.
 
-<!--
-**krokettenkoal/krokettenkoal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I'm mainly working on:
+* My university's [equipment rental system](https://verleih.fhstp.ac.at) (complete rewrite) for **work**
+* An interactive VR Escape Room for my **master studies**
+* A toolbox for importing Need for Speed game assets into Unity for **fun***
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Some of my favorite technologies, tools & frameworks:**
+* Svelte(Kit)
+* Node.js/npm
+* Unity
+* Wwise
+* Git
+* C#
+* TypeScript
+* JetBrains IDEs 🙂
+* ...
